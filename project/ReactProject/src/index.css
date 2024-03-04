@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("/pictures/1.jpg");
+  background-attachment: fixed;
+  background-size: 100% 115%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#task{
+   background-image: url("../pictures/Pin\ de\ zainab\ sani\ en\ Pallete\ _\ Marcos\ para\ texto\,\ Libreta\ de\ apuntes\,\ Titulos\ bonitos\ para\ apuntes\ חתוך.png");
+   height: 315px;
+   background-size: cover;
+   width: 303px;
+   font-family: cursive;
+}
+
+.labelTask{
+  font-weight: bold;
+  margin-left: 32px;
+  margin-right: 6px;
+}
+
+.labelInputTask{
+  margin-right: 20px;
+}
+
+.addTask{
+  font-size: 18px;
+  font-family: cursive;
+  border-radius: 7px;
+  color: white;
+  background-color: transparent;
+  border-color: white;
+  position: fixed;
+}
+
+#firstName{
+  background-color: white;
+  border-radius: 3px
+}
+
+#demo-simple-select-helper{
+  background-color: white;
+  border-radius: 3px
+}
+
+#Dedline{
+  background-color: white;
+  border-radius: 3px
+}
+
+#descriptionTask{
+  background-color: white;
+  border-radius: 3px
+}
+
+#nameTask{
+  background-color: white;
+  border-radius: 3px
+}
+
+#IDTask{
+  background-color: white;
+  border-radius: 3px
+}
+
+#phon{
+  background-color: white;
+  border-radius: 3px
+}
+
+#email{
+  background-color: white;
+  border-radius: 3px
+}
+
+#password{
+  background-color: white;
+  border-radius: 3px
+}
+
+#IDNumber{
+  background-color: white;
+  border-radius: 3px
+}
+
+#lastName{
+  background-color: white;
+  border-radius: 3px
+}
+
+#firstName{
+  background-color: white;
+  border-radius: 3px
+}
+
+#noTask{
+  background-image: url('../pictures/clipboard-illustration-3d-rendering-removebg-preview.png');
+  height: 243px;
+  background-size: cover;
+  width: 179px;
+}
+
+
